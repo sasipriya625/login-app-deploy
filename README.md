@@ -1,2 +1,2 @@
-# login-app-deploy
-app deploy for frontend and backend using EKS
+# HelloWorldWebCore
+A basic Hello World Asp.Net application for showcasing CI/CD scenarios
